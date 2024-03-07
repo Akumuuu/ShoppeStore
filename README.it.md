@@ -39,35 +39,35 @@
 ### Caratteristiche speciali
 
 <ol style='font-size:18px; font-weight: 500'>
-    <li><span style="font-size:18px"><b>Współpraca:</b></span>
+    <li><span style="font-size:18px"><b>Cooperazione:</b></span>
         <ul>
-            <li style="font-size:16px">Codzienne spotkania w celu omówienia zadań.</li>
-            <li style="font-size:16px">Użycie Trello do organizacji zadań.</li>
+            <li style="font-size:16px">Riunioni quotidiane per discutere i compiti.</li>
+            <li style="font-size:16px">Utilizzo di Trello per organizzare i compiti.</li>
         </ul>
     </li>
-    <li><span style="font-size:18px">Podział zadań:</span>
+    <li><span style="font-size:18px">Divisione dei compiti:</span>
         <ul>
-            <li style="font-size:16px">Zadania były przydzielane według ich trudności.</li>
-            <li style="font-size:16px">Więcej osób było zaangażowanych w bardziej skomplikowane zadania.</li>
+            <li style="font-size:16px">I compiti sono stati assegnati in base alla loro difficoltà.</li>
+            <li style="font-size:16px">Un maggior numero di persone è stato coinvolto in compiti più complessi.</li>
         </ul>
     </li>
-    <li><span style="font-size:18px">Czysty kod:</span>
+    <li><span style="font-size:18px">Codice pulito:</span>
         <ul>
-            <li style="font-size:16px; text-decoration: underline">Cały projekt był pisany bez użycia bibliotek i frameworków (z wyjątkiem SASS).</li>
+            <li style="font-size:16px; text-decoration: underline">L'intero progetto è stato scritto senza l'uso di librerie o framework (con l'eccezione di SASS).</li>
         </ul>
     </li>
-    <li><span style="font-size:18px">Przegląd kodu:</span>
+    <li><span style="font-size:18px">Revisione del codice:</span>
         <ul>
-            <li style="font-size:16px">Każde nowe zadanie było przypisywane na osobnej stronie.</li>
-            <li style="font-size:16px">Członkowie zespołu mieli możliwość pracy z cudzym kodem i doskonalenia swoich umiejętności recenzowania.</li>
+            <li style="font-size:16px">Ogni nuovo compito è stato assegnato su una pagina separata.</li>
+            <li style="font-size:16px">I membri del team hanno avuto l'opportunità di lavorare con il codice di altre persone e di affinare le loro capacità di revisione.</li>
         </ul>
     </li>
     <li><span style="font-size:18px">Github:</span>
         <ul>
-            <li style="font-size:16px">Rozwój i kontrola projektu odbywały się na platformie Github.</li>
-            <li style="font-size:16px">Dla każdego zadania używano osobnego brancha.</li>
-            <li style="font-size:16px">Liderzy regularnie sprawdzali kod i łączyli branch'e.</li>
-            <li style="font-size:16px">Liderzy nauczyli uczestników zespołu aktualizować swoje branche z main przed wprowadzaniem zmian.</li>
+            <li style="font-size:16px">Lo sviluppo e il controllo del progetto si sono svolti sulla piattaforma Github.</li>
+            <li style="font-size:16px">Per ogni compito è stato utilizzato un ramo separato.</li>
+            <li style="font-size:16px">I leader hanno controllato regolarmente il codice e hanno unito i rami.</li>
+            <li style="font-size:16px">I leader hanno insegnato ai partecipanti al team ad aggiornare la propria branca con la principale prima di apportare modifiche.</li>
         </ul>
     </li>
 </ol>
